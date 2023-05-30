@@ -21,25 +21,25 @@
 	height:20px;
 	overflow:hidden;
 }
-.success{
+.bar_success{
 	width:25%;
 	background-color:rgb(30 132 83);
 	border:none;
 	height:22px;
 }
-.info{
+.bar_info{
 	width:50%;
 	background-color:rgb(13 204 233);
 	border:none;
 	height:22px;
 }
-.warning{
+.bar_warning{
 	width:75%;
 	background-color:rgb(247 196 57);
 	border:none;
 	height:22px;
 }
-.danger{
+.bar_danger{
 	width:100%;
 	background-color:rgb(218 53 73);
 	border:none;
